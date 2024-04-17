@@ -1,0 +1,5 @@
+pymongo
+pandas
+requests
+spotipy
+python-dotenv
